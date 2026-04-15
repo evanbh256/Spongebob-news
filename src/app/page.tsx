@@ -70,17 +70,17 @@ export default function Home() {
               <span className="mr-1">▶</span> VIDEO
             </div>
             <img 
-              src="https://media.gettyimages.com/id/1243761217/photo/washington-dc-october-08-independent-journalist-nick-shirley.jpg?s=612x612&w=gi&k=20&c=placeholder" 
-              alt="Nick Shirley"
+              src="/Spongebob-news/spongebob-news.png" 
+              alt="Spongebob News Photo"
               className="w-full h-full object-cover"
             />
             {/* Bottom banner for video like in fox news screenshot */}
             <div className="absolute bottom-4 left-4 right-4 bg-white/90 p-4 border-l-4 border-red-600">
-              <div className="font-bold text-xl text-[#003366]">California lawmaker dubs bill 'Stop Nick Shirley Act'</div>
+              <div className="font-bold text-xl text-[#003366]">Breaking: Investigation into SponsorBob SquarePants</div>
             </div>
           </div>
           <div className="text-xs text-gray-500 text-right mb-6">
-             Independent journalist Nick Shirley speaks during a roundtable discussion in the State Dining Room of the White House in Washington, D.C., on Oct. 8, 2025. (Anna Moneymaker/Getty Images)
+             SpongeBob SquarePants seen in a compromised position at the Krusty Krab. (Bikini Bottom/Getty Images)
           </div>
 
           <div className="prose max-w-none prose-lg text-black font-serif leading-relaxed space-y-6 pb-12">
@@ -144,11 +144,11 @@ export default function Home() {
              </div>
              <div className="relative aspect-video bg-gray-800">
                {/* inner mock image */}
-               <div className="w-full h-full bg-cover bg-center" style={{backgroundImage: "url('https://media.gettyimages.com/id/1243761217/photo/washington-dc-october-08-independent-journalist-nick-shirley.jpg?s=612x612&w=gi&k=20&c=placeholder')"}}></div>
+               <div className="w-full h-full bg-cover bg-center" style={{backgroundImage: "url('/Spongebob-news/spongebob-news.png')"}}></div>
              </div>
              <div className="p-3">
                <div className="text-xs text-gray-400 mb-1 font-bold">NOW PLAYING</div>
-               <div className="font-bold text-sm leading-tight text-white">California lawmaker dubs bill 'Stop Nick Shirley Act'</div>
+               <div className="font-bold text-sm leading-tight text-white">Breaking: Investigation into SponsorBob SquarePants</div>
              </div>
           </div>
         </aside>
