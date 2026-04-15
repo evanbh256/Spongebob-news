@@ -15,7 +15,7 @@ export default function Home() {
         <div className="container mx-auto max-w-6xl px-4 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-8">
             <div className="flex items-center">
-              <img src="/fox-news-logo.png" alt="Fox News Logo" className="h-8 w-auto" />
+              <img src="/Spongebob-news/fox-news-logo.png" alt="Fox News Logo" className="h-8 w-auto" />
             </div>
             <nav className="hidden md:flex space-x-6 text-sm font-bold text-black uppercase tracking-wide">
               <span>U.S.</span>
@@ -115,7 +115,7 @@ export default function Home() {
         <aside className="w-full lg:w-80 flex-shrink-0">
           <div className="bg-gray-50 border p-6 mb-8 mt-12">
              <div className="w-full h-12 bg-[#003366] text-white flex flex-col items-center justify-center font-bold mb-4 relative">
-                <img src="/fox-news-logo.png" alt="Fox News Logo" className="h-6 w-auto invert brightness-0 mb-1" />
+                <img src="/Spongebob-news/fox-news-logo.png" alt="Fox News Logo" className="h-6 w-auto invert brightness-0 mb-1" />
                 <div className="text-[10px] uppercase bg-red-600 px-2 w-full text-center absolute bottom-0">Politics</div>
              </div>
              <h3 className="font-bold text-2xl font-serif mb-4">Fox News Politics</h3>
