@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'California AB 2624 dubbed Stop Nick Shirley Act targets journalists | Fox News',
-  description: 'The bill was authored by Assemblymember Mia Bonta, wife of California Attorney General Rob Bonta',
+  title: 'SQUAREPANTS SCANDAL: Is a High-School Dropout Vying for the Nuclear Codes? | Fox News',
+  description: 'EXCLUSIVE: While the mainstream "Bubble Media" continues to fete Presidential candidate SpongeBob SquarePants...',
 }
 
 export default function RootLayout({

@@ -44,10 +44,10 @@ export default function Home() {
           <div className="mb-4">
             <span className="text-red-700 font-bold uppercase text-xl block mb-2 font-serif">Politics</span>
             <h1 className="text-4xl md:text-5xl font-serif font-bold text-[#1a1a1a] mb-4 leading-tight">
-              Dems ripped for 'Stop Nick Shirley Act' that could 'shield' fraud and abuse in California
+              SQUAREPANTS SCANDAL: Is a High-School Dropout Vying for the Nuclear Codes?
             </h1>
             <h2 className="text-xl md:text-2xl font-serif text-gray-600 mb-6 leading-snug">
-              The bill was authored by Assemblymember Mia Bonta, wife of California Attorney General Rob Bonta
+              EXCLUSIVE: While the mainstream "Bubble Media" continues to fete Presidential candidate SpongeBob SquarePants as a "hero of the working fish," a damning investigation by The Bottom Line has uncovered a void where his credentials should be.
             </h2>
             
             <div className="flex justify-between items-end border-b pb-4 mb-6">
@@ -83,32 +83,36 @@ export default function Home() {
              Independent journalist Nick Shirley speaks during a roundtable discussion in the State Dining Room of the White House in Washington, D.C., on Oct. 8, 2025. (Anna Moneymaker/Getty Images)
           </div>
 
-          <div className="prose max-w-none prose-lg text-black font-serif leading-relaxed space-y-6">
+          <div className="prose max-w-none prose-lg text-black font-serif leading-relaxed space-y-6 pb-12">
+            <h3 className="text-2xl font-bold font-serif mb-2">‘Incompetence at the Top’</h3>
             <p>
-              California Democrats are being ripped over a bill coined the "Stop Nick Shirley Act," which critics argue would "criminalize" investigative journalism.
+              Leaked internal memos from the Bikini Bottom Department of Education confirm that SquarePants never graduated. In fact, he lacks even a basic middle-school equivalency. While the candidate spends his days flip-flopping—both on the grill and on policy—critics are asking how a man who cannot pass a 5-mph boating exam can be trusted to command the Bikini Bottom Defense Forces.
             </p>
+            
+            <h3 className="text-2xl font-bold font-serif mb-2 mt-8">The Puppetmaster Theory</h3>
             <p>
-              The bill, "Privacy for immigration support services providers," creates privacy protections for providers, employees, and volunteers, including hiding addresses and imposing penalties for publishing their images on social media.
+              "This isn't just about a missing diploma; it's about who is pulling the strings," says senior political analyst T. Tentacles. "If SquarePants doesn't have the cognitive architecture to understand a simple zoning law, he is a 'blank slate' for radical influencers like Sandy Cheeks and her 'Texas-First' agenda."
             </p>
+
+            <h3 className="text-2xl font-bold font-serif mb-2 mt-8">Key Findings from the Investigation:</h3>
+            
             <p>
-              Proponents say it's needed to protect people from political violence.
+              <strong>The 500-Fail Club:</strong> SquarePants has a record-breaking 584 failures at the Boating Academy. Sources say his "unpredictable" driving is a metaphor for his proposed economic "vibe-coding" strategy.
             </p>
+            
             <p>
-              If signed, the CA Secretary of State would oversee a program to conceal addresses of those providing "designated immigration support services" if they face threats or harassment.
+              <strong>Stolen Valor?</strong> SquarePants frequently wears a "fry cook" hat that resembles military headgear. Veterans are outraged, calling it a "distraction" from his total lack of civic training.
             </p>
+            
             <p>
-              The bill prohibits private citizens or businesses from posting images or personal information of participants with the intent to threaten or incite violence.
+              <strong>The Academic Black Hole:</strong> There is no record of SquarePants attending any accredited university. His "degree" in "Krabby Patty Science" is reportedly a self-signed napkin from a known corporate oligarch, Eugene Krabs.
             </p>
+
             <p>
-              Violators could face a $10,000 fine or up to one year in jail.
-            </p>
-            <p>
-              Republican lawmakers, like Carl DeMaio, argue it has a "chilling effect" on citizen journalists and protects "powerful interests."
-            </p>
-            <p>
-              Mia Bonta stated, "This bill will ensure that we have an opportunity... to be able to have the ability to protect themselves."
+              "He's ready? Ready for what?" asked one disgruntled voter in Rock Bottom. "The man can't even tie his shoes without a song. We need a leader, not a cartoon."
             </p>
           </div>
+
         </article>
 
         {/* Sidebar */}
